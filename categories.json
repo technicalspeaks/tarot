@@ -1,0 +1,76 @@
+{
+	"data": [{
+			"category": "Love Reading",
+			"subcategory": [{
+					"title": "Love Tarot",
+					"image": "love.png"
+				},
+				{
+					"title": "True Love Spread",
+					"image": "truelove.png"
+				}
+			]
+		},
+		{
+			"category": "Unique Reading",
+			"subcategory": [{
+					"title": "What I Think-Feel-Do",
+					"image": "thinkfeel.png"
+				},
+				{
+					"title": "You-Your Potential-Your Path",
+					"image": "potential.png"
+				},
+				{
+					"title": "Sitiuation-Action-Outcome",
+					"image": "situation.png"
+				}
+			]
+		},
+		{
+			"category": "Tarot Insights",
+			"subcategory": [{
+					"title": "Birth Tarot",
+					"image": "birth.png"
+				},
+				{
+					"title": "Daily Tarot",
+					"image": "daily.png"
+				},
+				{
+					"title": "Yes or No Tarot",
+					"image": "yesno.png"
+				},
+				{
+					"title": "Birthday Spread",
+					"image": "birthday.png"
+				}
+			]
+		},
+		{
+			"category": "Career Reading",
+			"subcategory": [{
+					"title": "Career Tarot",
+					"image": "career.png"
+				},
+				{
+					"title": "Career Path Spread",
+					"image": "careerspread.png"
+				}
+			]
+		},
+		{
+			"category": "Financial Reading",
+			"subcategory": [{
+					"title": "Financial Tarot",
+					"image": "financial.png"
+				},
+				{
+					"title": "Success Spread",
+					"image": "sucess.png"
+				}
+			]
+		}
+
+	]
+}
